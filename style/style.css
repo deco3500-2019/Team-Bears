@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.exercise {
+    color: #A1DD7C;
+    font-weight: bolder;
+}
+
+.diet {
+    color: #DD7C8F;
+    font-weight: bolder;
+}
+
+.application {
+    border-radius: 10px;
+}
+
+#container >div {
+    overflow: hidden;
+}
+
+.rightpart {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+}
+
+.entervalue {
+    display: flex;
+    flex-direction: column;
+}
+
+.entervalue > input {
+    width: 200px;
+    height: 30px;
+    border-radius: 50px;
+    border: none;
+    padding-left: 30px;
+    outline: none;
+    margin-bottom: 30px;
+}
+
+#c {
+    border-radius: 15px;
+}
+
+.iphone {
+    width: 1050px;
+    position: absolute;
+    z-index: 1;
+    pointer-events: none;
+
+}
+
+.demo {
+    margin-left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
