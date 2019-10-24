@@ -1,4 +1,4 @@
-# Team-Bears
+# Team-Bears 💡 
 Welcome to the page of Team Bears!
 # Link To Project Proposal
 https://github.com/deco3500-2019/Team-Bears/wiki/Proposal
