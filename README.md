@@ -1,10 +1,7 @@
 # Team-Bears 💡 
 Welcome to the page of Team Bears!
 ![](https://s2.ax1x.com/2019/10/24/Kaiah6.jpg)
-# Flyers
-![](https://s2.ax1x.com/2019/10/24/KaCMEq.jpg)
-![](https://s2.ax1x.com/2019/10/24/KapRQH.jpg)
-![](https://s2.ax1x.com/2019/10/24/Ka9ah8.jpg)
+
 # Link To Project Proposal
 https://github.com/deco3500-2019/Team-Bears/wiki/Proposal
 # Link to Final prototype document
