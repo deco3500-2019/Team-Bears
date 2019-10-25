@@ -1,5 +1,6 @@
 # Team-Bears 💡 
 Welcome to the page of Team Bears!
+![](https://s2.ax1x.com/2019/10/24/KN7npV.jpg)
 ![](https://s2.ax1x.com/2019/10/24/Kaiah6.jpg)
 
 # Link To Project Proposal
