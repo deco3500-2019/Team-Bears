@@ -9,7 +9,7 @@ https://github.com/deco3500-2019/Team-Bears/wiki/8.-Low-fidelity-Prototype-Detai
 # Link to medium fidelity prototype document
 https://github.com/deco3500-2019/Team-Bears/wiki/9.-Medium-Prototype-Details-about-Me--Evaluation
 # Link to Final prototype document
-https://github.com/deco3500-2019/Team-Bears/wiki/10.-High-Fidelity-Prototype-Details-about-High---Evaluation
+https://github.com/deco3500-2019/Team-Bears/wiki/Documentation
 # Link to Final prototype
 https://portfolioowen.000webhostapp.com/<br/>
 Instructions<br/>
