@@ -16,6 +16,6 @@ https://github.com/deco3500-2019/Team-Bears/wiki/10.-High-Fidelity-Prototype-Det
 https://portfolioowen.000webhostapp.com/
 
 This is our final prototype, you can click on the URL above with safari or chorme browser to have a check. In this page, on the left side is the our XD prototype, and we use javascript to make the most important game features into interactive prototypes on the right side of the page.
-
+### Please use the off-campus network to open because UQ campus network can not open this webpage.
 
 
