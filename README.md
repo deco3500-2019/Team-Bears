@@ -3,12 +3,12 @@ Welcome to the page of Team Bears!
 ![](https://s2.ax1x.com/2019/10/24/KN7npV.jpg)
 # Link To Project Proposal
 https://github.com/deco3500-2019/Team-Bears/wiki/Proposal
-# Link to low-fidelity prototype document
+# Link to low-fidelity prototype 
 https://github.com/deco3500-2019/Team-Bears/wiki/8.-Low-fidelity-Prototype-Details-about-Low--Evaluation
-# Link to medium fidelity prototype document
+# Link to Medium fidelity prototype 
 https://github.com/deco3500-2019/Team-Bears/wiki/9.-Medium-Prototype-Details-about-Me--Evaluation
-# Link to Final prototype
-https://portfolioowen.000webhostapp.com/<br/>
+# Link to High fidelity prototype
+https://github.com/deco3500-2019/Team-Bears/wiki/10.-High-Fidelity-Prototype-Details-about-High---Evaluation
 # Link to Final prototype document
 https://github.com/deco3500-2019/Team-Bears/wiki/Documentation
 Instructions<br/>
